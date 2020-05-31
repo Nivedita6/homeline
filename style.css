@@ -209,7 +209,7 @@
 /*contact-area*/
 
 .contact-area{
-	height: 1100px;
+	height: 1150px;
 	padding: 80px 0px 60px;
 	
 }
@@ -292,7 +292,7 @@ hr.socket{
 	}
 
 	.services{
-	height: 1400px;
+	height: 1550px;
  	}
 	
 	.product-pic{
@@ -304,7 +304,11 @@ hr.socket{
 	}
 
 	.contact-area{
-	height: 1800px;
+	height: 2000px;
+	}
+
+	.contact-area .icons p{
+		text-align: center;
 	}
 
 	.contacts h4{
@@ -347,7 +351,7 @@ hr.socket{
 	}
 
  	.contact-area{
-	height: 1800px;
+	height: 2000px;
 	}
 
 	.contacts h4{
