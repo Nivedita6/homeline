@@ -160,13 +160,18 @@
 	cursor: pointer;
 }
 
+.services .dropdown{
+	position: relative;
+	display: inline-block;
+}
 
-.dropdown-menu a:hover {
-  background-color:  #CAC6C6;
+.services .dropdown-menu a:hover {
+  background-color: #C9C3C3;
 }
 
 .dropdown:hover .dropdown-menu {
   display: block;
+
 }
 
 
@@ -294,7 +299,8 @@ hr.socket{
 	.services{
 	height: 1550px;
  	}
-	
+
+
 	.product-pic{
 		padding : 20px;
 	}
@@ -339,9 +345,19 @@ hr.socket{
 	}
 
 		.services{
-	height: 1500px;
+	height: 1600px;
  	}
 
+ 	.services .schneider-menu{
+ 		right: -120px;
+ 		left: auto;
+ 	}
+ 	
+ 	
+ 	.dropdown:hover .dropdown-menu {
+ 		 display: block;
+	}
+	
  	.product-pic{
 		padding : 40px;
 	}
