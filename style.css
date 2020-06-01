@@ -299,16 +299,6 @@ hr.socket{
 	.services{
 	height: 1550px;
  	}
-
- 	.services .schneider-menu{
- 		right: -120px;
- 		left: auto;
- 	}
- 	
- 	
- 	.dropdown:hover .dropdown-menu {
- 		 display: block;
-	}
 	
 
 	.product-pic{
@@ -358,15 +348,6 @@ hr.socket{
 	height: 1600px;
  	}
 
- 	.services .schneider-menu{
- 		right: -120px;
- 		left: auto;
- 	}
- 	
- 	
- 	.dropdown:hover .dropdown-menu {
- 		 display: block;
-	}
 	
  	.product-pic{
 		padding : 40px;
