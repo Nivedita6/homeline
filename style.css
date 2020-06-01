@@ -300,6 +300,16 @@ hr.socket{
 	height: 1550px;
  	}
 
+ 	.services .schneider-menu{
+ 		right: -120px;
+ 		left: auto;
+ 	}
+ 	
+ 	
+ 	.dropdown:hover .dropdown-menu {
+ 		 display: block;
+	}
+	
 
 	.product-pic{
 		padding : 20px;
